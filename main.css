@@ -1,0 +1,118 @@
+html {
+    background-color: #fff;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    width: 100%;
+    overflow: hidden;
+}
+
+body {
+    height: 735px;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.nav {
+    width: 100%;
+    height: 9.5%;
+}
+
+.nav ul {
+    padding: 10px;
+}
+
+.nav li {
+    float: right;
+    padding: 10px;
+}
+
+.nav img {
+    width: 18px;
+    height: 18px;
+    padding: 0;
+}
+
+.logo {
+    width: 100%;
+    height: 30.5%;
+}
+
+.logo img {
+    display: block;
+    margin: 0 auto;
+    width: 285px;
+    height: 105px;
+    padding-top: 120px;
+}
+
+.search {
+    width: 100%;
+    height: 20.5%;
+}
+
+.search form {
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 30px;
+}
+
+.submit {
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    margin: 15px 5px 10px 5px;
+    background-color: rgb(242, 242, 242);
+    color: rgb(117, 117, 117);
+    border-style: none;
+    border: 0;
+    font-weight: 600;
+}
+
+.searchbox {
+    display: block;
+    width: 400px;
+    height: 35px;
+    border: 1px solid rgb(162, 162, 162);
+}
+
+.lang {
+    width: 100%;
+    height: 34%;
+}
+
+.footer {
+    width: 100%;
+    height: 5.5%;
+    background-color: rgb(242, 242, 242);
+    color: rgb(102, 102, 102);
+}
+
+.left, .right {
+    padding: 0 15px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.left li, .right li {
+    padding: 10px 15px;
+}
+
+.left li {
+    float: left;
+}
+
+.right li {
+    float: right;
+}
